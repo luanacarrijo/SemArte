@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dfe050b9-902e-4cef-8780-09dd9cf57812}">
+		<property name="assetPath">
+			<value>bleeoop_interfacebleeps/Confirm_07.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.340204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0282cec2-32e5-47cd-8dd7-3b8e3e1a8144}</destination>
+		</relationship>
+	</object>
+</objects>

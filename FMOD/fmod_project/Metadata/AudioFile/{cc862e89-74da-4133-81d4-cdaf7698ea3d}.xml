@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cc862e89-74da-4133-81d4-cdaf7698ea3d}">
+		<property name="assetPath">
+			<value>scroll_002.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0000226757369615</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0282cec2-32e5-47cd-8dd7-3b8e3e1a8144}</destination>
+		</relationship>
+	</object>
+</objects>
